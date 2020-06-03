@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d0c57648fea2ec4fba508b661dfed61
+guid: 27751592e51e31649ae5a2d353e4cfe9
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -14,6 +14,41 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: LightGrey
     second: {fileID: 2100000, guid: 2341944ec19847b49ab88881b7d448d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver
+    second: {fileID: 2100000, guid: e3bc72f7c9d93d949890240dbd3ae549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorshade1
+    second: {fileID: 2100000, guid: 84185e51343779d4f8b450c43c306788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorshade2
+    second: {fileID: 2100000, guid: 0c8a146cc4b956f4c86d86fcd869ac86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: doorshade3
+    second: {fileID: 2100000, guid: f3298fc792286fb42bffae1b13dd8fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handlebox
+    second: {fileID: 2100000, guid: 3eba1ddea2cd92d4cacfe0baede2c58c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handlering
+    second: {fileID: 2100000, guid: 17998f2c245039c4d87b3e0df640b932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 611d55140c9227d489f87daab1b0e7fc, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1

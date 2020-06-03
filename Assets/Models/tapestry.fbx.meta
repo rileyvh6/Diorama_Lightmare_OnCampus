@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d0c57648fea2ec4fba508b661dfed61
+guid: 5f620fb1a4f1c1b4ba0228723a1cbe2b
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -14,6 +14,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: LightGrey
     second: {fileID: 2100000, guid: 2341944ec19847b49ab88881b7d448d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: goldtrimmingsside
+    second: {fileID: 2100000, guid: 78ecca72e30bd8142a6456a6e9d042f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: railings
+    second: {fileID: 2100000, guid: 3062cae7492932b4db3ffafa7907d5f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapestryfabricgggw
+    second: {fileID: 2100000, guid: 1d673bc38cecc1049a5418adcef5b909, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
