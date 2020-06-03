@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71f6da499a33cda4b9ca382af9d7e040
+guid: 4a709d3cb54eb834ca4414f56dc57b9d
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -18,17 +18,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: base_metal
-    second: {fileID: 2100000, guid: 7b0d3a36527374645ba366098824ea53, type: 2}
+    second: {fileID: 2100000, guid: f62b94aa8f174d24daff3fbf9741222d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: lambert1
-    second: {fileID: 2100000, guid: 611d55140c9227d489f87daab1b0e7fc, type: 2}
+    second: {fileID: 2100000, guid: 04664635ead18b446a8b3365125d30c9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: light_glass
-    second: {fileID: 2100000, guid: 71e5f30317070944db3e70928afc5227, type: 2}
+    second: {fileID: 2100000, guid: 7666742c4d84b1745a54cb91c5f9da36, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
