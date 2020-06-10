@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e1dee7517d6453e4da0cd7631152cc0a
+guid: a519891cf5289c549bb44f592d9a646f
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -17,8 +17,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: 9e6595e743cf87e498f71c1aa52f8130, type: 2}
+      name: Skull_Base
+    second: {fileID: 2100000, guid: 8026f8df498110c48ba576a0e16ed744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull_eyes
+    second: {fileID: 2100000, guid: ec6e912bf1c99ac4aaa05bdf24a34398, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
